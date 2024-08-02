@@ -1,4 +1,4 @@
-package com.fp.util;
+package com.kgyhkgyh.fp.util;
 
 import io.vavr.Function1;
 import io.vavr.Function2;

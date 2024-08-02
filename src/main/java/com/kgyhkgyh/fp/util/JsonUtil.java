@@ -1,4 +1,4 @@
-package com.fp.util;
+package com.kgyhkgyh.fp.util;
 
 import com.alibaba.fastjson.JSON;
 import io.vavr.Function1;

@@ -1,8 +1,4 @@
-/*
- * Ant Group
- * Copyright (c) 2004-2023 All Rights Reserved.
- */
-package com.fp.util;
+package com.kgyhkgyh.fp.util;
 
 import com.google.common.collect.Lists;
 import io.vavr.Function1;
@@ -15,8 +11,8 @@ import java.util.function.BiConsumer;
 import java.util.function.Consumer;
 
 /**
- * @author 辰熠 zack
- * @version TryUtil.java, v 0.1 2023年09月11日 14:55 辰熠 zack
+ * @author kgyhkgyh
+ * @version TryUtil.java, v 0.1 2023年09月11日 14:55 kgyhkgyh
  */
 public class TryUtil {
 	

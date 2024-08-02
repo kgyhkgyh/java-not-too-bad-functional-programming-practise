@@ -1,4 +1,4 @@
-package com.fp.util;
+package com.kgyhkgyh.fp.util;
 
 import com.google.common.base.Objects;
 import io.vavr.Function1;
@@ -9,8 +9,8 @@ import org.springframework.beans.BeanUtils;
 
 import java.util.function.*;
 
-import static com.fp.util.FunctionUtil.not;
-import static com.fp.util.FunctionUtil.toPredicate;
+import static com.kgyhkgyh.fp.util.FunctionUtil.not;
+import static com.kgyhkgyh.fp.util.FunctionUtil.toPredicate;
 
 
 /**

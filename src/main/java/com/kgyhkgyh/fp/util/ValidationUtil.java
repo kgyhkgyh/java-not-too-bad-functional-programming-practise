@@ -1,8 +1,4 @@
-/*
- * Ant Group
- * Copyright (c) 2004-2023 All Rights Reserved.
- */
-package com.fp.util;
+package com.kgyhkgyh.fp.util;
 
 import io.vavr.Function1;
 import io.vavr.control.Try;
@@ -14,8 +10,8 @@ import java.util.function.Consumer;
 
 
 /**
- * @author 辰熠 zack
- * @version ValidationUtil.java, v 0.1 2023年09月18日 17:02 辰熠 zack
+ * @author kgyhkgyh
+ * @version ValidationUtil.java, v 0.1 2023年09月18日 17:02 kgyhkgyh
  */
 public class ValidationUtil {
 	

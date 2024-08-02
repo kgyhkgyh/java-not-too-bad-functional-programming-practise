@@ -1,8 +1,4 @@
-/*
- * Ant Group
- * Copyright (c) 2004-2023 All Rights Reserved.
- */
-package com.fp.util;
+package com.kgyhkgyh.fp.util;
 
 import io.vavr.*;
 import io.vavr.control.Option;
@@ -11,8 +7,8 @@ import java.util.function.Function;
 import java.util.function.Predicate;
 
 /**
- * @author 辰熠 zack
- * @version TupleUtil.java, v 0.1 2023年09月14日 16:18 辰熠 zack
+ * @author kgyhkgyh
+ * @version TupleUtil.java, v 0.1 2023年09月14日 16:18 kgyhkgyh
  */
 public class TupleUtil {
 	

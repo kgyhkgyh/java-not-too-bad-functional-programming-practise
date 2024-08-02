@@ -1,8 +1,4 @@
-/*
- * Ant Group
- * Copyright (c) 2004-2023 All Rights Reserved.
- */
-package com.fp.util;
+package com.kgyhkgyh.fp.util;
 
 import io.vavr.Function1;
 import io.vavr.Tuple;
@@ -15,8 +11,8 @@ import java.util.ArrayList;
 import java.util.function.Predicate;
 
 /**
- * @author 辰熠 zack
- * @version ListUtil.java, v 0.1 2023年09月06日 15:08 辰熠 zack
+ * @author kgyhkgyh
+ * @version ListUtil.java, v 0.1 2023年09月06日 15:08 kgyhkgyh
  */
 public class ListUtil {
 	
