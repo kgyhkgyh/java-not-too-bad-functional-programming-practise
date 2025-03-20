@@ -29,7 +29,7 @@ public class TupleUtil {
 	 * Option.of(t)
 	 * 		 .map(toTuple(t ->  doSomeThing1(t), t -> doSomeThing2(t))
 	 * 		 .map(tupleMap(t1 -> doMoreThing1(t1)), t2 -> doMoreThing2(t2))
-	 * 		 .map(tupleMap((t1, t2) -> doFinalThing(t1, t2)))
+	 * 		 .map(tupleMerge((t1, t2) -> doFinalThing(t1, t2)))
 	 *
 	 * 这段代码的意义：
 	 *      			   t
